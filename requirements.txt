@@ -1,0 +1,9 @@
+SpeechRecognition>=3.10.0
+pyttsx3>=2.90
+pyautogui>=0.9.54
+pywhatkit>=5.4
+keyboard>=0.13.5
+pypiwin32>=223
+python-dotenv>=1.0.0
+anthropic>=0.25.0
+openai>=1.0.0
